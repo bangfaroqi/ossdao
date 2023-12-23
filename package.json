@@ -21,11 +21,11 @@
   },
   "homepage": "https://github.com/fadhiilrachman/ossdao#readme",
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^1.6.2",
     "dotenv": "^10.0.0",
     "jsonfile": "^6.1.0",
     "moment": "^2.29.1",
     "random": "^3.0.6",
-    "simple-git": "^2.48.0"
+    "simple-git": "^3.21.0"
   }
 }
